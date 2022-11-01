@@ -9,7 +9,7 @@
 body {
   width: 375px;
   background: rgba(250, 250, 250, 1);
-  margin: 0 auto;
+  margin: 4.9rem auto;
 }
 
 .headings {
@@ -47,5 +47,189 @@ body {
   text-align: center;
   color: rgba(77, 79, 98, 1);
   opacity: 0.5;
+  margin-top: 1rem;
 }
 
+.cards {
+  padding-top: 4.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.cards_item-1 {
+  height: 222px;
+  width: 311px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 15px 30px -11px rgba(131, 166, 210, 0.5);
+  border-top: 5px solid rgba(68, 211, 210, 1);
+  border-radius: 8px;
+  position: relative;
+}
+
+.cards_item-1 h2 {
+  width: 109px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(77, 79, 98, 1);
+  padding: 1.7rem 10.9rem 0.06rem 1.8rem;
+}
+
+.cards_item-1 p {
+  opacity: 50%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.1px;
+  text-align: left;
+  color: rgba(77, 79, 98, 1);
+  padding: 0 1.6rem 7.4rem 1.8rem;
+}
+
+.image-1 {
+  background-image: url('./images/icon-supervisor.svg');
+  background-size: contain;
+  height: 57px;
+  width: 57px;
+  position: absolute;
+  left: 226px;
+  top: 137px;
+}
+
+.cards_item-2 {
+  height: 222px;
+  width: 311px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 15px 30px -11px rgba(131, 166, 210, 0.5);
+  border-top: 5px solid rgba(234, 84, 84, 1);
+  border-radius: 8px;
+  position: relative;
+}
+
+.cards_item-2 h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(77, 79, 98, 1);
+  padding: 1.7rem 9rem 0.06rem 1.8rem;
+}
+
+.cards_item-2 p {
+  opacity: 50%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.1px;
+  text-align: left;
+  color: rgba(77, 79, 98, 1);
+  padding: 0 1.6rem 7.4rem 1.8rem;
+}
+
+.image-2 {
+  background-image: url('./images/icon-team-builder.svg');
+  background-size: contain;
+  height: 57px;
+  width: 57px;
+  position: absolute;
+  left: 226px;
+  top: 137px;
+}
+
+.cards_item-3 {
+  height: 222px;
+  width: 311px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 15px 30px -11px rgba(131, 166, 210, 0.5);
+  border-top: 5px solid rgba(252, 174, 74, 1);
+  border-radius: 8px;
+  position: relative;
+}
+
+.cards_item-3 h2 {
+  width: 109px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(77, 79, 98, 1);
+  padding: 1.7rem 10.9rem 0.06rem 1.8rem;
+}
+
+.cards_item-3 p {
+  opacity: 50%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.1px;
+  text-align: left;
+  color: rgba(77, 79, 98, 1);
+  padding: 0 1.6rem 7.4rem 1.8rem;
+}
+
+.image-3 {
+  background-image: url('./images/icon-karma.svg');
+  background-size: contain;
+  height: 57px;
+  width: 57px;
+  position: absolute;
+  left: 226px;
+  top: 137px;
+}
+
+.cards_item-4 {
+  height: 222px;
+  width: 311px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 15px 30px -11px rgba(131, 166, 210, 0.5);
+  border-top: 5px solid rgba(84, 158, 242, 1);
+  border-radius: 8px;
+  position: relative;
+}
+
+.cards_item-4 h2 {
+  width: 109px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(77, 79, 98, 1);
+  padding: 1.7rem 10.9rem 0.06rem 1.8rem;
+}
+
+.cards_item-4 p {
+  opacity: 50%;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.1px;
+  text-align: left;
+  color: rgba(77, 79, 98, 1);
+  padding: 0 1.6rem 7.4rem 1.8rem;
+}
+
+.image-4 {
+  background-image: url('./images/icon-calculator.svg');
+  background-size: contain;
+  height: 57px;
+  width: 57px;
+  position: absolute;
+  left: 226px;
+  top: 137px;
+}
