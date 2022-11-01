@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Github](https://github.com/Have-Samuel/four-card-feature-section)
-- [live link]()
+- [Live Link]()
 
 ## My process
 
