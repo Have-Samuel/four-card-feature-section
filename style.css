@@ -277,6 +277,7 @@ body {
   .cards_item-1 {
     position: absolute;
     width: 350px;
+    height: 250px;
     left: 161px;
     top: 452px;
   }
@@ -284,6 +285,7 @@ body {
   .cards_item-2 {
     position: absolute;
     width: 350px;
+    height: 250px;
     left: 540px;
     top: 312px;
   }
@@ -291,6 +293,7 @@ body {
   .cards_item-3 {
     position: absolute;
     width: 350px;
+    height: 250px;
     left: 540px;
     top: 582px;
   }
@@ -298,7 +301,28 @@ body {
   .cards_item-4 {
     position: absolute;
     width: 350px;
+    height: 250px;
     left: 920px;
     top: 452px;
+  }
+
+  .image-1 {
+    top: 154px;
+    left: 254px;
+  }
+
+  .image-2 {
+    top: 154px;
+    left: 254px;
+  }
+
+  .image-3 {
+    top: 154px;
+    left: 254px;
+  }
+
+  .image-4 {
+    top: 154px;
+    left: 254px;
   }
 }
