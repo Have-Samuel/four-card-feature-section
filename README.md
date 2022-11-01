@@ -10,7 +10,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
