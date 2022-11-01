@@ -277,28 +277,28 @@ body {
   .cards_item-1 {
     position: absolute;
     width: 350px;
-    left: 151px;
+    left: 161px;
     top: 452px;
   }
 
   .cards_item-2 {
     position: absolute;
     width: 350px;
-    left: 530px;
+    left: 540px;
     top: 312px;
   }
 
   .cards_item-3 {
     position: absolute;
     width: 350px;
-    left: 530px;
+    left: 540px;
     top: 582px;
   }
 
   .cards_item-4 {
     position: absolute;
     width: 350px;
-    left: 910px;
+    left: 920px;
     top: 452px;
   }
 }
